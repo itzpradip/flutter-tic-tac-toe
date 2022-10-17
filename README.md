@@ -8,3 +8,4 @@ This repository is part of a tutorial on my YouTube.
 
 ## Screenshot
 ![Flutter Tic-Tac-Toe Game App](./iphone-tic-tac-toe.png)
+![Flutter Tic-Tac-Toe Game App](./iphone-tic-tac-toe2.png)
